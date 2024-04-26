@@ -2,15 +2,15 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+This lab provides an opportunity to practice creating methods.
 
 ## Prerequisites
 
-- tktk
+- Java Methods and Scope module
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **90 min**
 
 ## Starter code
 
