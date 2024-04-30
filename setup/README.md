@@ -2,13 +2,21 @@
 
 ## Setup
 
-Open your Terminal application and navigate a directory of your choosing. It's recommended to group all the labs in a single directory. Ex: `~/java/labs`.
+Open IntelliJ IDEA Community Edition and create a new Java project. Select the following setting for this lab:
 
-Create a new directory for this lab and navigate into it.
+- **Named**: `java-methods-and-scope-lab`
+- **Location**: `~/labs` - This can be anywhere, but I suggest this location for consistency
+- **Build System**: IntelliJ
+- **JDK**: 17 - This should be already downloaded on your machine
 
-```bash
-mkdir java-methods-and-scope-lab
-cd java-methods-and-scope-lab
-```
+Once you have selcted the settings, click `Finish`.
 
-tktk here we either do the itellij setup or use vscode so waiting to hear back from the team on this.
+Remove the starter code from the `Main.java` file and complete the exercises.
+
+## Running your Work
+
+When you are at a point to run your work you can either:
+
+1. Right-click on the `Main` class and select `Run 'Main.main()'`.
+2. Click the green play button next to the `Main` class.
+3. Use the terminal to compile and run the program.
