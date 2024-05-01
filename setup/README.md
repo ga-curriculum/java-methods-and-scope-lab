@@ -2,21 +2,26 @@
 
 ## Setup
 
-Open IntelliJ IDEA Community Edition and create a new Java project. Select the following setting for this lab:
+Open your Terminal application and navigate to a directory of your choice. For example, you can navigate to `~/labs`:
 
-- **Named**: `java-methods-and-scope-lab`
-- **Location**: `~/labs` - This can be anywhere, but I suggest this location for consistency
-- **Build System**: IntelliJ
-- **JDK**: 17 - This should be already downloaded on your machine
+```bash
+cd ~/labs
+```
 
-Once you have selcted the settings, click `Finish`.
+Fork the [java-methods-and-scope-lab-starter-code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-starter-code) repository.
 
-Remove the starter code from the `Main.java` file and complete the exercises.
+Clone a copy of your remote repo locally by using the `git clone` command:
 
-## Running your Work
+```bash
+git clone https://git.generalassemb.ly/<your-username>/java-methods-and-scope-lab-starter-code].git
+```
 
-When you are at a point to run your work you can either:
+> 📚 Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
 
-1. Right-click on the `Main` class and select `Run 'Main.main()'`.
-2. Click the green play button next to the `Main` class.
-3. Use the terminal to compile and run the program.
+Next, `cd` into your new cloned directory, `java-methods-and-scope-lab-starter-code`:
+
+```bash
+cd java-methods-and-scope-lab-starter-code
+```
+
+Open IntelliJ IDEA Community Edition and open the project by selecting the `Open` option and navigating to the `java-methods-and-scope-lab-starter-code` directory.
