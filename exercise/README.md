@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Exercise](./assets/hero.png)
+# ![[tktk Module Name] - Exercise](./assets/methods-and-scope-exercise.png)
 
 This lab provides an opportunity to practice creating methods.
 

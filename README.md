@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/methods-and-scope-lab.png)
 
 ## About
 
@@ -22,8 +22,6 @@ Estimated time to complete core lab exercise: **90 min**
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-solution)
 
 ## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
