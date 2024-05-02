@@ -12,6 +12,10 @@ This lab provides an opportunity to practice creating methods.
 
 Estimated time to complete core lab exercise: **90 min**
 
+## Starter code
+
+🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-starter-code)
+
 ## Content
 
 - [Setup](./setup/README.md)

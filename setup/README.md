@@ -13,7 +13,7 @@ Fork the [java-methods-and-scope-lab-starter-code](https://git.generalassemb.ly/
 Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/java-methods-and-scope-lab-starter-code].git
+git clone https://git.generalassemb.ly/<your-username>/java-methods-and-scope-lab-starter-code.git
 ```
 
 > 📚 Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
