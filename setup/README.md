@@ -25,3 +25,7 @@ cd java-methods-and-scope-lab-starter-code
 ```
 
 Open IntelliJ IDEA Community Edition and open the project by selecting the `Open` option and navigating to the `java-methods-and-scope-lab-starter-code` directory.
+
+## Running the Tests
+
+This lab includes a set of tests to help you verify your work. To run the tests, right-click on the `src/test/java` directory and select `Run 'All Tests'`.
