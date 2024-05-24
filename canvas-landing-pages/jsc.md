@@ -4,9 +4,6 @@
 
 This lab provides an opportunity to practice creating methods.
 
-## Time to complete
-
-Estimated time to complete core lab exercise: **90 min**
 
 ## Starter code
 
