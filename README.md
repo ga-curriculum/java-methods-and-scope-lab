@@ -33,8 +33,9 @@ Estimated time to complete core lab exercise: **1 hr 30 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk course full name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab/canvas-landing-pages/jsc.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
