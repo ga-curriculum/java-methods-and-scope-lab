@@ -1,15 +1,17 @@
-# ![[tktk Module Name]](../assets/methods-and-scope-lab.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Methods and Scope Lab</span>
+</h1>
 
 ## About
 
-This lab provides an opportunity to practice creating methods.
-
-
-## Starter code
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-starter-code)
+This lab provides an opportunity to practice creating methods and work with scope.
 
 ## Content
 
 - [Setup](../setup/README.md)
 - [Exercise](../exercise/README.md)
+
+## Level Up
+
+🚀 [Find and Filter](../find-and-filter/README.md)
