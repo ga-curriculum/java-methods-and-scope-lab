@@ -58,4 +58,4 @@ Trust the project if you are prompted.
 
 ## Running the tests
 
-This lab includes a set of tests to help you verify your work. To run the tests, right-click on the `src/test/java` directory and select `Run 'All Tests'`.
+This lab includes a set of tests to help you verify your work. To run the tests, right-click on the <code class="filepath">src/test/java</code> directory and select **Run 'All Tests'**.
