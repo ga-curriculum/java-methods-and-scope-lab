@@ -45,7 +45,9 @@ courses {
       // add microlessons here, in the order they should be delivered
       mls.setup
       mls.exercise
-      mls.findAndFilter
+      (mls.findAndFilter) {
+        type = "Level Up content"
+		}
     }
   }
 }

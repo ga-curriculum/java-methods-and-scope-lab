@@ -3,7 +3,7 @@
   <span class="subhead">Exercise</span>
 </h1>
 
-This lab provides an opportunity to practice creating methods.
+**Learning objective :** By the end of this lesson, you will be able to create java methods that can take in arguments of various data types, perform a task and return the result.
 
 ## Requirements
 

@@ -12,6 +12,6 @@ This lab provides an opportunity to practice creating methods and work with scop
 - [Setup](../setup/README.md)
 - [Exercise](../exercise/README.md)
 
-## Level Up
+## Level up
 
-🚀 [Find and Filter](../find-and-filter/README.md)
+- 🚀 [Find and Filter](../find-and-filter/README.md)
