@@ -19,6 +19,12 @@ git clone https://git.generalassemb.ly/modular-curriculum-all-courses/java-metho
 
 > 💡 The `java-methods-and-scope-lab` at the end of this command will place the contents of the `java-methods-and-scope-lab-starter` repo into a directory named <code class="filepath">java-methods-and-scope-lab</code>.
 
+Move into the <code class="filepath">java-methods-and-scope-lab</code> directory:
+
+```bash
+cd java-methods-and-scope-lab
+```
+
 You don't want GA commits on your work, so remove the existing Git information from this starter code:
 
 ```bash

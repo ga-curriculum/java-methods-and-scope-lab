@@ -14,7 +14,7 @@ This lab provides an opportunity to practice creating methods and work with scop
 
 ## Level up
 
-- 🚀[Find and Filter](./find-and-filter/README.md)
+- 🚀 [Find and Filter](./find-and-filter/README.md)
 
 ## Internal
 

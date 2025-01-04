@@ -3,7 +3,6 @@
   <span class="subhead">Find and Filter</span>
 </h1>
 
-
 **Learning objective :** By the end of this lesson, you will be able to create java methods that can take in arguments of array data type, perform a task and return the result.
 
 ### Exercise 1: `findLongestWord()`
