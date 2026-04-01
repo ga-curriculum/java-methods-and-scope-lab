@@ -36,9 +36,9 @@ Estimated time to complete core lab exercise: **1 hr 30 min**
 
 ### Course landing pages
 
-- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab/canvas-landing-pages/jcd.html)
-- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab/canvas-landing-pages/jsc.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab/canvas-landing-pages/fallback.html)
+- [JCD - Java Career Development Program](https://ga-curriculum.github.io/java-methods-and-scope-lab/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://ga-curriculum.github.io/java-methods-and-scope-lab/canvas-landing-pages/jsc.html)
+- [Fallback](https://ga-curriculum.github.io/java-methods-and-scope-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -50,4 +50,4 @@ Estimated time to complete core lab exercise: **1 hr 30 min**
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
