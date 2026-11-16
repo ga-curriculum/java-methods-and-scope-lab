@@ -28,11 +28,11 @@ Estimated time to complete core lab exercise: **1 hr 30 min**
 
 ### Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-starter)
+🟢 [Starter code](https://github.com/ga-curriculum/java-methods-and-scope-lab-starter)
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/java-methods-and-scope-lab-solution)
 
 ### Course landing pages
 

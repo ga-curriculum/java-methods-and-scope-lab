@@ -11,10 +11,10 @@ Open your Terminal application and navigate to a directory of your <code class="
 cd ~/code/ga/labs
 ```
 
-Clone the [Java Methods and Scope Lab starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-starter) repository using the `git clone` command:
+Clone the [Java Methods and Scope Lab starter code](https://github.com/ga-curriculum/java-methods-and-scope-lab-starter) repository using the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/java-methods-and-scope-lab-starter java-methods-and-scope-lab
+git clone https://github.com/ga-curriculum/java-methods-and-scope-lab-starter java-methods-and-scope-lab
 ```
 
 > 💡 The `java-methods-and-scope-lab` at the end of this command will place the contents of the `java-methods-and-scope-lab-starter` repo into a directory named <code class="filepath">java-methods-and-scope-lab</code>.
